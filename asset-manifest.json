@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Musem/static/css/main.e75dd729.css",
+    "main.js": "/Musem/static/js/main.c2ea5ea3.js",
+    "index.html": "/Musem/index.html",
+    "main.e75dd729.css.map": "/Musem/static/css/main.e75dd729.css.map",
+    "main.c2ea5ea3.js.map": "/Musem/static/js/main.c2ea5ea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75dd729.css",
+    "static/js/main.c2ea5ea3.js"
+  ]
+}
